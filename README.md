@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at __LAB__ University of Applied Sciences.
+
 <!--
 **LassiTurunen/LassiTurunen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
